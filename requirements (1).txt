@@ -1,0 +1,9 @@
+matplotlib
+pandas
+uk_covid19
+voila
+ipywidgets
+pandas
+numpy
+json
+datetime
